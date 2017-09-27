@@ -1,6 +1,6 @@
 # sudoku problem
 
-View notebook here.
+View notebook <a href="https://github.com/irecasens/sudoku/blob/master/Sudoku%20Puzzle%20Notebook.ipynb"> here </a>.
 
 The chromatic number of a graph has many applications in Management Science. Prominent examples are timetabling, scheduling, or solving a Sudoku puzzle.
 
